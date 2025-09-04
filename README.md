@@ -18,4 +18,5 @@ Since this was a beginning project, it is not well designed and lacks proper OOP
 - All the expected features are implemented.  
 
 ## Editor Notes
-- You can set the last level from the top editor menu → **Tools → Set Last Played Level**.  
+- You can set the last level from the top editor menu → **Tools → Set Last Played Level**.
+- There are rocket combo and hint system.
